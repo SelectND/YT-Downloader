@@ -9,6 +9,7 @@ Download media from YouTube
 To deploy this project run
 
 ```bash
+  sudo apt install ffmpeg
   cd Server
   npm install
   npm run start
